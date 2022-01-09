@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/haetbit/AppQuestion-master/AppQuestion-master/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/haetbit/AppQuestion-master/AppQuestion-master/app/src/main/res/layout/fragment_detail.xml" value="0.1" />
+        <entry key="..\:/haetbit/AppQuestion-master/AppQuestion-master/app/src/main/res/layout/fragment_list.xml" value="0.1" />
+        <entry key="..\:/haetbit/AppQuestion-master/AppQuestion-master/app/src/main/res/layout/fragment_question.xml" value="0.1" />
+        <entry key="..\:/haetbit/AppQuestion-master/AppQuestion-master/app/src/main/res/layout/fragment_setting.xml" value="0.1" />
+        <entry key="..\:/haetbit/AppQuestion-master/AppQuestion-master/app/src/main/res/menu/bottom_navigation.xml" value="0.1" />
+        <entry key="..\:/haetbit/AppQuestion/app/src/main/res/layout/activity_main.xml" value="0.4" />
+        <entry key="..\:/haetbit/AppQuestion/app/src/main/res/layout/activity_navi.xml" value="0.11018518518518519" />
+        <entry key="..\:/haetbit/AppQuestion/app/src/main/res/layout/activity_splash.xml" value="0.2" />
+        <entry key="..\:/haetbit/AppQuestion/app/src/main/res/menu/bottom_navigation.xml" value="0.23541666666666666" />
+        <entry key="..\:/haetbit/AppQuestion/app/src/main/res/menu/botton_navigation.xml" value="0.1" />
+        <entry key="..\:/haetbit/AppQuestion/app/src/main/res/menu/menu_selector_color.xml" value="0.1" />
+        <entry key="..\:/haetbit/AppQuestion/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.22083333333333333" />
+      </ProjectState>
+    </option>
+  </component>
+</project>
