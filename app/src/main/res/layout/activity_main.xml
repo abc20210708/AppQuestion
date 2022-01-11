@@ -6,14 +6,20 @@
     android:layout_height="match_parent"
     tools:context=".MainActivity">
 
+   <FrameLayout
+       android:id="@+id/container"
+       android:layout_width="match_parent"
+       android:layout_height="match_parent" >
+
+   </FrameLayout>
 
     <com.google.android.material.bottomnavigation.BottomNavigationView
         android:id="@+id/bottom_navi"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         app:itemBackground="@android:color/white"
-        app:itemIconTint="#000000"
-        app:itemTextColor="#000000"
+        app:itemTextColor="@drawable/selector_button"
+        app:itemIconTint="@drawable/selector_button"
         app:layout_constraintBottom_toBottomOf="parent"
         app:menu="@menu/bottom_navigation_main"
         tools:layout_editor_absoluteX="16dp" />
